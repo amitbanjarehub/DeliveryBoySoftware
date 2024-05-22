@@ -22,8 +22,13 @@
 *Admin:
 
 1.Admin approve applied delivery boy with its salary.
+
 2.Admin add company name and its branch.
+
 3.It see all details of Parcel.
+
 4.Admin handle all parcel data like parcel allotment,parcel deliverd, parcel received.
+
 5.Admin block and delete user.
+
 6.Supervisor add expense report.
