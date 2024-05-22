@@ -20,6 +20,7 @@
 
 
 *Admin:
+
 1.Admin approve applied delivery boy with its salary.
 2.Admin add company name and its branch.
 3.It see all details of Parcel.
