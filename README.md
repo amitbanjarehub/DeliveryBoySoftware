@@ -31,4 +31,4 @@
 
 5.Admin block and delete user.
 
-6.Supervisor add expense report.
+6.Admin add expense report.
